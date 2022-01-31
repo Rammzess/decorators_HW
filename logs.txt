@@ -1,0 +1,4 @@
+ the_smartest_hero 
+ 31.01.2022, 21:41:21                     
+ (({'Hulk': 88, 'Captain America': 69, 'Thanos': 100},), {}) 
+ The smartest hero is Thanos: 100 points
